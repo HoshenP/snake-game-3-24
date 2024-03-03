@@ -3,7 +3,7 @@ window.onload = function () {
   //get the canvas
   //interval game
 };
-
+/// NEW LINE
 //arguments - config object
 
 //function game
